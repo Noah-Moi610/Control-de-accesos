@@ -8,4 +8,4 @@
 
 Se creó un control de accesos con máquinas de estado finito, con el objetivo de practicar y desarrollar un sistema de jerarquización en terminos de un aula escolar.
 
-[Link del código](/control%20de%20accesos/control%20de%20accesos.c)
+[Link del código](./control%20de%20accesos.c)
